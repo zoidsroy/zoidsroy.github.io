@@ -1,3 +1,3 @@
 # zoidsroy.github.io
 Website
-https://zoidsroy/zoidsroy.github.io
+ https://zoidsroy.github.io/
